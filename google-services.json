@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "196865755794",
+    "project_id": "reactnativefirebase-dd07f",
+    "storage_bucket": "reactnativefirebase-dd07f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:196865755794:android:424cf8d57ad5530e10b44b",
+        "android_client_info": {
+          "package_name": "com.loginapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "196865755794-6tdlt0jam5p443q70idgtfqeid27n8tb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAUeXRaC_sACZyHvBQpAb6reI3kVLnnEQQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "196865755794-6tdlt0jam5p443q70idgtfqeid27n8tb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
